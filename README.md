@@ -11,4 +11,4 @@ of a launch.
 ## Outline
 Here is a brief summary of each folder.
 
-### [Data Collection](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/tree/main/Data%20Collection)
+- [Data Collection](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/tree/main/Data%20Collection)
