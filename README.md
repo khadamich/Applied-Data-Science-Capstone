@@ -1,5 +1,5 @@
 # Winnning Space Race with Data Science
-
+This is final project of the IBM Data Science Professional Certificate
 ## Asbstract
 In this work Data Science Methodologies were used in order to implement Machine Learning Algorithms to the SpaceX Falcon-9 rocket data set with the purpose of predicting if the first stage of this rocket will land successfully. The Machine Learning models implemented achieved a mean accuracy of 0.84 over all the data set, whereas the mean Machine Learning models scores on test data obtained was 0.944.
 
