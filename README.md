@@ -11,4 +11,11 @@ of a launch.
 ## Outline
 Here is a brief summary of each folder.
 
-- [Data Collection](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/tree/main/Data%20Collection)
+- [Data Collection](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/tree/main/Data%20Collection): The dataset used for this project and how it was collected.
+- [Data-Wrangling](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/tree/main/Data-Wrangling): Preparing the dataset for exploratory data analysis.
+- [Exploratory-Data-Analysis](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/tree/main/Exploratory-Data-Analysis): Exploratory data analysis using SQL and Python, and preparing the dataset for ML models.
+- [Launch-Sites](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/tree/main/Lauch-Sites): Creating a map of the lauch sites using [Folium](https://python-visualization.github.io/folium/) package.
+- [Dasboard](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/tree/main/Dashboard): Interactive dasbhoard for datta visualization creatd with python [Dash](https://dash.plotly.com/).
+- [Models](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/tree/main/Models): Machine Learning models implementd.
+- [PDF](https://github.com/khadamich/Winning-Space-Race-with-Data-Science/blob/main/Winning%20Space%20Race%20with%20Data%20Science.pdf): A comprehensive presentation of the project.
+
